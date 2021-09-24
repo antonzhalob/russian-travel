@@ -1,0 +1,12 @@
+@import "b-footer.css";
+@import "b-header.css";
+@import "b-intro.css";
+@import "b-lead.css";
+@import "b-locations.css";
+@import "b-offer.css";
+@import "b-photos.css";
+@import "../fonts/font.css";
+body{
+    background-color: #2A2C2F;
+    font-family: 'Inter';   
+}
