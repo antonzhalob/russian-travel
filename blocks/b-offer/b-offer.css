@@ -1,0 +1,30 @@
+.b-offer {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+    background-image: url(../../images/__background.jpg);
+    height: 740px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-size: cover;
+    align-items: center;
+    position: relative;
+    margin-bottom: 90px;
+}
+
+@media(max-width:1024px){
+    .b-offer {
+        height: 740px;
+    }
+}
+@media(max-width:1024px){
+    .b-offer {
+        height: 480px;
+    }
+}
+@media(max-width:767px){
+    .b-offer {
+        height: 200px;
+    }
+}

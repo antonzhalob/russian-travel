@@ -1,0 +1,12 @@
+.b-lead__title{
+    font-weight: 900;
+    font-size: 96px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 32px;
+}
+@media(max-width:767px){
+    .b-lead__title{
+        font-size: 40px;
+    }
+}

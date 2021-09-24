@@ -1,0 +1,12 @@
+.b-footer__links {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+
+@media(max-width:767px){
+    .b-footer__links {
+        flex-direction: column;
+    }
+}

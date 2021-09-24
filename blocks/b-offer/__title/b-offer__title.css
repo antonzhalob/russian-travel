@@ -1,0 +1,18 @@
+.b-offer__title{
+    margin-bottom: 32px;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    text-align: center;
+    color: #FFFFFF;
+    z-index: 1;
+    max-width: 560px;
+}
+@media(max-width:767px){
+
+    .b-offer__title{
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 0;
+    }
+}

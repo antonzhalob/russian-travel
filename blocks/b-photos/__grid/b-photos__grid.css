@@ -3,16 +3,6 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 16px;
 }
-.b-photos__item{
-    width: 100%;
-}
-.b-photos{
-    margin: 0 auto;
-    max-width: 1200px;
-    width: 100%;
-    margin-top: 92px;
-    margin-bottom: 92px;
-}
 
 @media(max-width:1024px){
     .b-photos__grid {

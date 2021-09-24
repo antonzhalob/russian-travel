@@ -1,0 +1,14 @@
+.b-footer__links a{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    margin-right: 18px;
+    text-decoration: none;
+    color: #fff;
+}
+@media(max-width:767px){
+    .b-footer__links a{
+        font-size: 24px;
+    }
+   
+}
