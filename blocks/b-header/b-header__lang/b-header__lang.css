@@ -5,9 +5,6 @@
     color: #fff;
     margin-left: 18px;
 }
-.b-header__lang--selected{
-    text-decoration: underline;
-}
 
 @media(max-width:767px){
     .b-header__lang{
