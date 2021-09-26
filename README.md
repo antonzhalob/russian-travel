@@ -4,3 +4,5 @@
 - HTML
 - CSS
 Проект выполнен в нескольких разрешениях, для комфортного просмотра в любых устройств.
+
+Результат работы на Github Pages - https://antonzhalob.github.io/russian-travel/
