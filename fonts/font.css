@@ -12,10 +12,10 @@
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
-  font-weight: 800;
+  font-weight: 700;
   font-display: swap;
-  src: url("Inter-ExtraBold.woff2?v=3.19") format("woff2"),
-       url("Inter-ExtraBold.woff?v=3.19") format("woff");
+  src: url("Inter-Bold.woff2") format("woff2"),
+       url("Inter-Bold.woff") format("woff");
 }
 
 
