@@ -1,0 +1,21 @@
+.locations__name{
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+@media(max-width:768px){
+    .locations__name{
+        font-size: 42px;
+        line-height: 44px;
+        max-width: 97.5%;
+    }
+}
+@media(max-width:320px){
+    .locations__name{
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

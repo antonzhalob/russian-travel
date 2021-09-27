@@ -1,0 +1,14 @@
+.header__lang-switcher{
+    margin-top: 15px;
+    display: flex;
+}
+@media(max-width:1024px){
+    .header__lang-switcher{
+        margin-right: 6px;
+    }
+}
+@media(max-width:768px){
+    .header__lang-switcher{
+        margin-right: 0px;
+    }
+}

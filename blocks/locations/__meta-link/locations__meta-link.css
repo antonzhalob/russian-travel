@@ -1,0 +1,9 @@
+.locations__meta-link{
+    color:#fff;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+}
+.locations__meta-link:hover{
+    cursor: pointer;
+}

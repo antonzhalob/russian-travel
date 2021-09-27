@@ -1,0 +1,21 @@
+.locations{
+    margin: 0 auto;
+    max-width: 984px;
+    width: 100%;
+}
+@media(max-width:1024px){
+    .locations{
+        max-width: 931px;
+    }
+}
+@media(max-width:768px){
+    .locations{
+        max-width: 718px;
+    }
+}
+
+@media(max-width:320px){
+    .locations{
+        max-width: 288px;
+    }
+}
