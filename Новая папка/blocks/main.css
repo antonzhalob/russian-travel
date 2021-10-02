@@ -1,0 +1,16 @@
+@import "/blocks/b-footer/b-footer.css";
+@import "/blocks/b-footer/__copyright/b-footer__copyright.css";
+@import "/blocks/b-footer/__links/"
+@import "/blocks/b-header/b-header.css";
+@import "/blocks/b-header/__lang-switcher/b-header__lang-switcher.css";
+@import "/blocks/b-header/__lang--selected/b-header__lang--selected.css";
+@import "b-intro.css";
+@import "b-lead.css";
+@import "b-locations.css";
+@import "b-offer.css";
+@import "b-photos.css";
+@import "../fonts/font.css";
+body{
+    background-color: #2A2C2F;
+    font-family: 'Inter';   
+}

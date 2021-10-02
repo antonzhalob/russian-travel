@@ -1,0 +1,26 @@
+.b-footer__links a{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    margin-right: 18px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.b-footer__links {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+@media(max-width:767px){
+    .b-footer__links {
+        flex-direction: column;
+    }
+    .b-footer__links a{
+        font-size: 24px;
+    }
+    .b-footer__links li{
+        padding-top: 32px;
+    }
+}
