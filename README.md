@@ -13,10 +13,3 @@
 
 Результат работы на Github Pages - https://antonzhalob.github.io/russian-travel/
 =======
-### Используемые технологии
-- HTML
-- CSS
-Проект выполнен в нескольких разрешениях, для комфортного просмотра в любых устройств.
-
-Результат работы на Github Pages - https://antonzhalob.github.io/russian-travel/
->>>>>>> 679eaa0f7878af9d93f762c6fa9912f0bd612d8c
