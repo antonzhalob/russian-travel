@@ -4,7 +4,7 @@
 @import "../blocks/footer/__link-item/footer__link-item.css";
 @import "../blocks/footer/__links/footer__links.css";
 @import "../blocks/header/header.css";
-@import "../blocks/header/_logo/header__logo.css";
+@import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__lang/header__lang.css";
 @import "../blocks/header/__lang-switcher/header__lang-switcher.css";
 @import "../blocks/header/__lang/_selected/header__lang_selected.css";
