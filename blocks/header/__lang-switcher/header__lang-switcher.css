@@ -7,7 +7,7 @@
         margin-right: 6px;
     }
 }
-@media(max-width:768px){
+@media(max-width:1023px){
     .header__lang-switcher{
         margin-right: 0px;
     }

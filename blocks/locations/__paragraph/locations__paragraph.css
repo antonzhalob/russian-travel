@@ -2,3 +2,10 @@
     margin-top: 0;
     margin-bottom: 25px;
 }
+
+@media(max-width:767px){
+    .locations__paragraph{
+        margin-left: 16px;
+        margin-right: 23px;
+    }
+}

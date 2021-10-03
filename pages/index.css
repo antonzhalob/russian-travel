@@ -9,7 +9,7 @@
 @import "../blocks/header/__lang-switcher/header__lang-switcher.css";
 @import "../blocks/header/__lang/_selected/header__lang_selected.css";
 @import "../blocks/intro/intro.css";
-@import "../blocks/intro/__list/__listitem/intro__listitem.css";
+@import "../blocks/intro/__list/_bold/intro__list_bold.css";
 @import "../blocks/intro/__list/intro__list.css";
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/intro/__title/intro__title.css";

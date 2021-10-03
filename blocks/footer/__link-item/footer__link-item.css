@@ -9,12 +9,11 @@
 .footer__link-item:hover{
     opacity: 0.8;
 }
-@media(max-width:320px){
+@media(max-width:767px){
     .footer__link-item{
         font-size: 24px;
-        margin-top: 50px;
+        margin-top: 0px;
+        margin-bottom: 39px;
         display: block;
-        border-bottom: 50px;
     }
-   
 }

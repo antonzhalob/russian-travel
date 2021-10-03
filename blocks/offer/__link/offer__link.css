@@ -30,8 +30,13 @@
     }
 }
 
-@media(max-width:768px){
+@media(max-width:1023px){
     .offer__link {
         min-height: 480px;
+    }
+}
+@media(max-width:767px){
+    .offer__link {
+        min-height: 200px;
     }
 }

@@ -10,13 +10,13 @@
         max-width: 931px;
     }
 }
-@media(max-width:768px){
+@media(max-width:1023px){
     .photos{
         max-width: 718px;
     }
 }
 
-@media(max-width:320px){
+@media(max-width:767px){
     .photos{
         max-width: 288px;
         margin-top: 65px;

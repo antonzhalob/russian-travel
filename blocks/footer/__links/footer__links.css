@@ -7,8 +7,9 @@
 }
 
 
-@media(max-width:320px){
+@media(max-width:767px){
     .footer__links {
         flex-direction: column;
+        margin-bottom: 0;
     }
 }

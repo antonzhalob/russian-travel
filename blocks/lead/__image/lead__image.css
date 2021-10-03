@@ -9,3 +9,8 @@
         margin-bottom: 1px;
     }
 }
+@media(max-width:767px){
+    .lead__image {
+        margin-top: 40px;
+    }
+}

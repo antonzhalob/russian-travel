@@ -7,9 +7,14 @@
     letter-spacing: 1.5px;
 }
 
-@media(max-width:768px){
+@media(max-width:1023px){
     .lead__caption{
         max-width: 718px;
         margin: 3px auto 0 auto;
+    }
+}
+@media(max-width:767px){
+    .lead__caption{
+        margin-left: 16px;
     }
 }

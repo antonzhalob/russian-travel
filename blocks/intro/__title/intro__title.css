@@ -5,15 +5,13 @@
     margin-bottom: 34px;
     margin-top: 0;
 }
-@media(max-width:768px){
-    .intro__title{
 
-    }
-}
-@media(max-width:320px){
+@media(max-width:767px){
     .intro__title{
         font-size: 32px;
         max-width: 85%;
+        line-height: 35px;
+        margin-bottom: 38px;
     }
 }
 

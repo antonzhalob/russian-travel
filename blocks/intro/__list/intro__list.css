@@ -7,3 +7,8 @@
     margin-top: 33px;
     margin-bottom: 10px;
 }
+@media(max-width:767px){
+    .intro__list{
+    }
+}
+
