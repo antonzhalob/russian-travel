@@ -7,4 +7,10 @@
 * Проект выполнен в нескольких разрешениях, для комфортного просмотра в любых устройств.
 
 **Github Pages**
+<<<<<<< HEAD
 Результат работы на Github Pages - https://antonzhalob.github.io/russian-travel/
+=======
+
+Результат работы на Github Pages - https://antonzhalob.github.io/russian-travel/
+=======
+>>>>>>> 1b35d75e5ca81e52107039af364c2d527ab8e444
