@@ -2,11 +2,7 @@
     margin-top: 15px;
     display: flex;
 }
-@media(max-width:1024px){
-    .header__lang-switcher{
-        margin-right: 6px;
-    }
-}
+
 @media(max-width:1023px){
     .header__lang-switcher{
         margin-right: 0px;

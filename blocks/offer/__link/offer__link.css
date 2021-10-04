@@ -24,12 +24,6 @@
     opacity: 0.8;
     cursor: pointer;
 }
-@media(max-width:1024px){
-    .offer__link {
-        min-height: 640px;
-    }
-}
-
 @media(max-width:1023px){
     .offer__link {
         min-height: 480px;

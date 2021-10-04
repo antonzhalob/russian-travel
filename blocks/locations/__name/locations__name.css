@@ -7,9 +7,9 @@
     margin-bottom: 0;
 }
 @media(max-width:1023px){
-    .locations__name{
-        font-size: 42px;
-        line-height: 44px;
+    .locations__name {
+        font-size: 72px;
+        line-height: 76px;
         max-width: 97.5%;
     }
 }

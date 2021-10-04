@@ -4,15 +4,10 @@
     width: 100%;
     margin-top: 90px;
 }
-@media(max-width:1024px){
-    .intro{
-        max-width: 931px;
-    }
-}
 
 @media(max-width:1023px){
     .intro{
-        max-width: 718px;
+         max-width: 980px;
     }
 }
 

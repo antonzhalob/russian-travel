@@ -7,3 +7,9 @@
     margin-bottom: 10px;
     margin-top: 10px;
 }
+
+@media(max-width:1023px){
+    .intro__text{
+        line-height: 26px;
+    }
+}

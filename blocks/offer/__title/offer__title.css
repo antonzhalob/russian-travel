@@ -9,7 +9,7 @@
     max-width: 560px;
     margin-top: 14px;
 }
-@media(max-width:1024px){
+@media(max-width:1023px){
     .offer__title {
         margin-bottom: 30px;
         margin-top: 0;

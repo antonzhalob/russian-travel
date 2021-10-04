@@ -3,13 +3,8 @@
     max-width: 984px;
     width: 100%;
 }
-@media(max-width:1024px){
-    .locations{
-        max-width: 931px;
-    }
-}
 @media(max-width:1023px){
-    .locations{
-        max-width: 718px;
+    .locations {
+        max-width: 970px;
     }
 }

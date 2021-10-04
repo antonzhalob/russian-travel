@@ -1,11 +1,18 @@
-.body{
+.body {
     background-color: #2A2C2F;
     font-family: 'Inter', 'Arial', sans-serif;
-    margin: 8px;
-    overflow-x: hidden;
+    max-width: 1280px;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    margin: 0 auto;
 }
-@media(max-width:1024px){
-    .body{
-        margin: 0;
+
+@media (min-width:768px) and (max-width:1023){
+    body{
+        padding:0 48px;
     }
 }

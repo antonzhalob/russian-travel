@@ -9,3 +9,9 @@
         margin-right: 23px;
     }
 }
+
+@media(max-width:320px){
+    .locations__paragraph{
+        margin-bottom: 23px;
+    }
+}
